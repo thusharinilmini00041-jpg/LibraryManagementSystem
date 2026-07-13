@@ -12,7 +12,7 @@ This is a simple Java console application developed for the AI-Assisted Programm
 Java
 
 ## Author
-Your Name
+Thushari
 ## Version
 Version A
 ## Assignment
