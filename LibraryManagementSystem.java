@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-// Library Management System
+
 class Book {
     int id;
     String title;
